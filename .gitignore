@@ -1,0 +1,5 @@
+woven-project/bytecodeanalysis/
+aspect/target/
+aspect/dependency-reduced-pom.xml
+woven-project/target/
+woven-project/dependency-reduced-pom.xml
